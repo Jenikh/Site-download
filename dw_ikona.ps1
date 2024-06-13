@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri https://jenikh.github.io/Site-download/ikona.ico -OutFile icon.ico
